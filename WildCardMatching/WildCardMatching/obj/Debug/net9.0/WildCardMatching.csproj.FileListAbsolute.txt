@@ -1,0 +1,4 @@
+C:\Users\eliza\LeetCode\WildCardMatching\WildCardMatching\obj\Debug\net9.0\WildCardMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\LeetCode\WildCardMatching\WildCardMatching\obj\Debug\net9.0\WildCardMatching.AssemblyInfoInputs.cache
+C:\Users\eliza\LeetCode\WildCardMatching\WildCardMatching\obj\Debug\net9.0\WildCardMatching.AssemblyInfo.cs
+C:\Users\eliza\LeetCode\WildCardMatching\WildCardMatching\obj\Debug\net9.0\WildCardMatching.csproj.CoreCompileInputs.cache
